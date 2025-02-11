@@ -70,7 +70,7 @@ Brief description of your second project. Highlight the key features and technol
 ⭐️ From [NMsby](https://github.com/NMsby)
 
 ## 🎵 Now Playing
-![Spotify](https://novatorem-nowplaying.vercel.app/api/spotify)](https://open.spotify.com/user/6h508c0c947nig9mt3emra696)
+[![Spotify](https://novatorem-nowplaying.vercel.app/api/spotify)](https://open.spotify.com/user/6h508c0c947nig9mt3emra696)
 
 ## 📱 Latest Activity
 <!--START_SECTION:activity-->
