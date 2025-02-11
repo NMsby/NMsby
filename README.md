@@ -28,7 +28,7 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### Backend Development
-![Laravel](https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -47,7 +47,7 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 </div>
 
 ## 📈 Activity Graph
-[![Nelson's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NMsby&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Nelson's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NMsby&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🎯 Featured Projects
 
@@ -70,7 +70,7 @@ Brief description of your second project. Highlight the key features and technol
 ⭐️ From [NMsby](https://github.com/NMsby)
 
 ## 🎵 Now Playing
-[![Spotify](https://novatorem-nowplaying.vercel.app/api/spotify)](https://open.spotify.com/user/6h508c0c947nig9mt3emra696)
+![Spotify](https://novatorem-nowplaying.vercel.app/api/spotify)](https://open.spotify.com/user/6h508c0c947nig9mt3emra696)
 
 ## 📱 Latest Activity
 <!--START_SECTION:activity-->
@@ -82,4 +82,4 @@ Brief description of your second project. Highlight the key features and technol
 <!-- This activity section will auto-update with a GitHub Action -->
 
 ## 🐍 Contribution Snake
-![snakegif](https://github.com/NMsby/NMsby/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/NMsby/NMsby/blob/output/github-contribution-grid-snake.gif)
