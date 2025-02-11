@@ -3,16 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=NMsby&color=brightgreen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nmsby/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success.svg)](nelson-masbayi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success.svg)](nelsonmasbayi.vercel.app)
 
 ## 🚀 About Me
-I'm a passionate developer focused on [interests/specialties]. Whether it's crafting clean code or solving complex problems, I love bringing ideas to life through technology.
+I'm a passionate developer focused on Full stack development. Whether it's crafting clean code or solving complex problems, I love bringing ideas to life through technology.
 
 ### 💡 What I Do
-- 🔭 Currently working on [project/focus area]
-- 🌱 Learning [technologies]
-- 👯 Looking to collaborate on [types of projects you're interested in]
-- 💬 Ask me about [your areas of expertise]
+- 🔭 Currently working on Data Science/AI
+- 🌱 Learning Python
+- 👯 Looking to collaborate on anything and everything!
+- 💬 Ask me about...
 
 ## 🛠️ Technical Skills
 
@@ -28,6 +28,7 @@ I'm a passionate developer focused on [interests/specialties]. Whether it's craf
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### Backend Development
+![Laravel](https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -62,7 +63,7 @@ Brief description of your second project. Highlight the key features and technol
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn]([https://www.linkedin.com/in/nmsby/])
-- 🌐 [Personal Website](nelson-masbayi.vercel.app)
+- 🌐 [Personal Website](nelsonmasbayi.vercel.app)
 - 📧 [Email](mailto:nelsonmasbayi@gmail.com)
 
 ---
@@ -81,4 +82,4 @@ Brief description of your second project. Highlight the key features and technol
 <!-- This activity section will auto-update with a GitHub Action -->
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/NMsby/NMsby/blob/output/github-contribution-grid-snake.gif)
+![snakegif](https://github.com/NMsby/NMsby/blob/output/github-contribution-grid-snake.gif)
