@@ -50,13 +50,13 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 ![Nelson's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NMsby&theme=react-dark)
 ## 🎯 Featured Projects
 
-### [Project Name 1](project-link)
-Brief description of your project. What problem does it solve? What technologies did you use?
+### [Project 1](project-link)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur augue at ex fringilla, quis pharetra nibh condimentum. Sed felis lacus, bibendum eu imperdiet vitae, scelerisque non mauris. Etiam lacus arcu, tempus ac euismod in, facilisis sit amet orci. Curabitur elementum ipsum et arcu interdum, vitae volutpat ante vehicula.
 
 ![Project Stars](https://img.shields.io/github/stars/your-username/project-name?style=social)
 
-### [Project Name 2](project-link)
-Brief description of your second project. Highlight the key features and technologies.
+### [Project 2](project-link)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur augue at ex fringilla, quis pharetra nibh condimentum. Sed felis lacus, bibendum eu imperdiet vitae, scelerisque non mauris. Etiam lacus arcu, tempus ac euismod in, facilisis sit amet orci. Curabitur elementum ipsum et arcu interdum, vitae volutpat ante vehicula. 
 
 ![Project Stars](https://img.shields.io/github/stars/your-username/project-name-2?style=social)
 
