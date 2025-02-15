@@ -63,7 +63,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur augue a
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/nmsby/)
 - 🌐 [Personal Website](nelsonmasbayi.vercel.app)
-- 📧 [Email](mailto:nelsonmasbayi@gmail.com)
+- 📧 [Email](mailto:nmsby.dev@gmail.com)
 
 ---
 ⭐️ From [NMsby](https://github.com/NMsby)
