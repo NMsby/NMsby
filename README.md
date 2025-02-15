@@ -61,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur augue a
 ![Project Stars](https://img.shields.io/github/stars/your-username/project-name-2?style=social)
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn]([https://www.linkedin.com/in/nmsby/])
+- 💼 [LinkedIn](https://www.linkedin.com/in/nmsby/)
 - 🌐 [Personal Website](nelsonmasbayi.vercel.app)
 - 📧 [Email](mailto:nelsonmasbayi@gmail.com)
 
