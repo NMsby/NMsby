@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=NMsby&color=brightgreen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nmsby/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success.svg)](nelsonmasbayi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success.svg)](https://nelsonmasbayi.vercel.app/)
 
 ## 🚀 About Me
 I'm a passionate developer focused on Full stack development. Whether it's crafting clean code or solving complex problems, I love bringing ideas to life through technology.
