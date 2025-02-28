@@ -42,7 +42,7 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NMsby&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NMsby&theme=radical&cache_seconds=86400" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=NMsby&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NMsby&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
