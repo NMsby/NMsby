@@ -46,8 +46,6 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NMsby&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 📈 Activity Graph
-![Nelson's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NMsby&theme=react-dark)
 ## 🎯 Featured Projects
 
 ### [Project 1](project-link)
