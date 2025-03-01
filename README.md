@@ -42,9 +42,9 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NMsby&show_icons=true&theme=radical&card_width=400" alt="GitHub Stats" height="200" />
-  <img src="https://streak-stats.demolab.com/?user=NMsby&theme=radical&card_width=400" alt="GitHub Streak" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NMsby&layout=compact&theme=radical&card_width=400" alt="Top Languages" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NMsby&show_icons=true&theme=radical" alt="GitHub Stats" height="200" />
+  <img src="https://streak-stats.demolab.com/?user=NMsby&theme=radical" alt="GitHub Streak" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NMsby&layout=compact&theme=radical" alt="Top Languages" height="200" />
 </div>
 
 ## 🎯 Featured Projects
