@@ -48,13 +48,13 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 
 ## 🎯 Featured Projects
 
-### [Project 1](project-link)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur augue at ex fringilla, quis pharetra nibh condimentum. Sed felis lacus, bibendum eu imperdiet vitae, scelerisque non mauris. Etiam lacus arcu, tempus ac euismod in, facilisis sit amet orci. Curabitur elementum ipsum et arcu interdum, vitae volutpat ante vehicula.
+### [Cryptocurrency Switch bot](project-link)
+An automated cryptocurrency trading bot that monitors price trends via CoinGecko API and executes trades based on configurable strategies.
 
 ![Project Stars](https://img.shields.io/github/stars/your-username/project-name?style=social)
 
-### [Project 2](project-link)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur augue at ex fringilla, quis pharetra nibh condimentum. Sed felis lacus, bibendum eu imperdiet vitae, scelerisque non mauris. Etiam lacus arcu, tempus ac euismod in, facilisis sit amet orci. Curabitur elementum ipsum et arcu interdum, vitae volutpat ante vehicula. 
+### [Hardware Store Management System](project-link)
+A comprehensive hardware store management system with inventory, POS, customer management, and SMS notification capabilities 
 
 ![Project Stars](https://img.shields.io/github/stars/your-username/project-name-2?style=social)
 
