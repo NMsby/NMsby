@@ -51,7 +51,7 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 ### [Cryptocurrency Switch bot](project-link)
 An automated cryptocurrency trading bot that monitors price trends via CoinGecko API and executes trades based on configurable strategies.
 
-![Project Stars](https://img.shields.io/github/stars/your-username/project-name?style=social)
+![Project Stars](https://img.shields.io/github/stars/NMsby/crypto_switch_bot?style=social)
 
 ### [Hardware Store Management System](project-link)
 A comprehensive hardware store management system with inventory, POS, customer management, and SMS notification capabilities 
