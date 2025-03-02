@@ -49,13 +49,18 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 
 ## 🎯 Featured Projects
 
-### [Cryptocurrency Switch bot](project-link)
+### [Cryptocurrency Switch bot](https://github.com/NMsby/crypto_switch_bot.git)
 An automated cryptocurrency trading bot that monitors price trends via CoinGecko API and executes trades based on configurable strategies.
 
 ![Project Stars](https://img.shields.io/github/stars/NMsby/crypto_switch_bot?style=social)
 
-### [Hardware Store Management System](project-link)
+### [Hardware Store Management System](https://github.com/NMsby/pecma-hardware-system.git)
 A comprehensive hardware store management system with inventory, POS, customer management, and SMS notification capabilities 
+
+![Project Stars](https://img.shields.io/github/stars/your-username/project-name-2?style=social)
+
+### [An Automated Login Script](https://github.com/NMsby/powerlearn-bot.git)
+This Python bot handles scheduled login/logout cycles, simulates user activity, provides error recovery, and includes monitoring capabilities using Playwright. 
 
 ![Project Stars](https://img.shields.io/github/stars/your-username/project-name-2?style=social)
 
