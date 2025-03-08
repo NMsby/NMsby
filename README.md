@@ -57,12 +57,12 @@ An automated cryptocurrency trading bot that monitors price trends via CoinGecko
 ### [Hardware Store Management System](https://github.com/NMsby/pecma-hardware-system.git)
 A comprehensive hardware store management system with inventory, POS, customer management, and SMS notification capabilities 
 
-![Project Stars](https://img.shields.io/github/stars/your-username/project-name-2?style=social)
+![Project Stars](https://img.shields.io/github/stars/NMsby/pecma-hardware-system.git?style=social)
 
 ### [An Automated Login Script](https://github.com/NMsby/powerlearn-bot.git)
 This Python bot handles scheduled login/logout cycles, simulates user activity, provides error recovery, and includes monitoring capabilities using Playwright. 
 
-![Project Stars](https://img.shields.io/github/stars/your-username/project-name-2?style=social)
+![Project Stars](https://img.shields.io/github/stars/NMsby/powerlearn-bot.git?style=social)
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/nmsby/)
