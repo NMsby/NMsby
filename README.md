@@ -49,6 +49,11 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 
 ## 🎯 Featured Projects
 
+### [ICT Authority Site Data Processor](https://github.com/NMsby/icta-site-data-processor.git)
+A Python-based data enrichment system developed during my industrial attachment at ICT Authority Kenya. Processes site information records and fills missing data through intelligent lookups and Google Maps geocoding. Features include fuzzy matching, data validation, and comprehensive reporting. 
+
+![Project Stars](https://img.shields.io/github/stars/NMsby/icta-site-data-processor?style=social)
+
 ### [Cryptocurrency Switch bot](https://github.com/NMsby/crypto_switch_bot.git)
 An automated cryptocurrency trading bot that monitors price trends via CoinGecko API and executes trades based on configurable strategies.
 
