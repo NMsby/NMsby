@@ -78,7 +78,7 @@ This Python bot handles scheduled login/logout cycles, simulates user activity, 
 ⭐️ From [NMsby](https://github.com/NMsby)
 
 ## 🎵 Now Playing
-[![Spotify](https://spotify-now-playing-nmsby.vercel.app/api/spotify)](https://open.spotify.com/user/6h508c0c947nig9mt3emra696)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=6h508c0c947nig9mt3emra696&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=6h508c0c947nig9mt3emra696&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=8b3855&bar_color_cover=true)]]
 
 ## 📱 Latest Activity
 <!--START_SECTION:activity-->
