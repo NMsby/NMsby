@@ -78,7 +78,7 @@ This Python bot handles scheduled login/logout cycles, simulates user activity, 
 ⭐️ From [NMsby](https://github.com/NMsby)
 
 ## 🎵 Now Playing
-[![Spotify](https://novatorem-nowplaying.vercel.app/api/spotify)](https://open.spotify.com/user/6h508c0c947nig9mt3emra696)
+[![Spotify](https://spotify-now-playing-nmsby.vercel.app/api/spotify)](https://open.spotify.com/user/6h508c0c947nig9mt3emra696)
 
 ## 📱 Latest Activity
 <!--START_SECTION:activity-->
