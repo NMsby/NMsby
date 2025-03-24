@@ -78,7 +78,7 @@ This Python bot handles scheduled login/logout cycles, simulates user activity, 
 ⭐️ From [NMsby](https://github.com/NMsby)
 
 ## 🎵 Now Playing
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=6h508c0c947nig9mt3emra696&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=6h508c0c947nig9mt3emra696&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=8b3855&bar_color_cover=true)]]
+[![Spotify](https://YOUR_SPOTIFY_NOWPLAYING_URL)](https://open.spotify.com/user/6h508c0c947nig9mt3emra696)
 
 ## 📱 Latest Activity
 <!--START_SECTION:activity-->
@@ -91,3 +91,8 @@ This Python bot handles scheduled login/logout cycles, simulates user activity, 
 
 ## 🐍 Contribution Snake
 ![snake gif](https://github.com/NMsby/NMsby/blob/output/github-contribution-grid-snake.gif)
+
+---
+
+⭐️ Template inspired by [Nelson Masbayi](https://github.com/NMsby)
+
