@@ -44,7 +44,12 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NMsby&show_icons=true&theme=radical&&hide_border=true&count_private=true&include_all_commits=true" /> </p>
   <img src="https://streak-stats.demolab.com/?user=NMsby&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NMsby&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NMsby&theme=radical&no-bg=true&no-frame=true" />
 </div>
 
 ## 🎯 Featured Projects
@@ -90,9 +95,13 @@ This Python bot handles scheduled login/logout cycles, simulates user activity, 
 <!-- This activity section will auto-update with a GitHub Action -->
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/NMsby/NMsby/blob/output/github-contribution-grid-snake.gif)
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NMsby/NMsby/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NMsby/NMsby/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NMsby/NMsby/output/github-snake.svg" />
+</picture>
+
 
 ⭐️ Template inspired by [Nelson Masbayi](https://github.com/NMsby)
 
