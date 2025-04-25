@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Nelson Masbayi
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Blockchain+Maximalist;Open+Source+Enthusiast;Always+Learning,+Always+Curious)](https://git.io/typing-svg)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=NMsby&color=brightgreen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nmsby/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success.svg)](https://nelsonmasbayi.vercel.app/)
