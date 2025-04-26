@@ -25,6 +25,7 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     </td>
   </tr>
+
   <tr>
     <td><strong>Frontend Development</strong></td>
     <td>
@@ -34,6 +35,7 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     </td>
   </tr>
+
   <tr>
     <td><strong>Backend Development</strong></td>
     <td>
@@ -43,6 +45,7 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
   </tr>
+
   <tr>
     <td><strong>Tools & Technologies</strong></td>
     <td>
@@ -52,6 +55,7 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
     </td>
   </tr>
 </table>
+
 
 ## 📊 GitHub Stats
 
