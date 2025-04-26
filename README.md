@@ -68,6 +68,21 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
   </div>
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=NMsby&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" style="width: 30%; min-width: 250px; height: 250px; object-fit: cover;" />
+
+  <img src="https://streak-stats.demolab.com/?user=NMsby&theme=radical&hide_border=true" style="width: 30%; min-width: 250px; height: 250px; object-fit: cover;" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NMsby&layout=compact&theme=radical&hide_border=true" style="width: 30%; min-width: 250px; height: 250px; object-fit: cover;" />
+
+  </div>
+</div>
+
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
