@@ -127,7 +127,7 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
   <img src="https://github-profile-trophy.vercel.app/?username=NMsby&theme=radical&no-bg=true&no-frame=true" />
 </div>
 
-## 🎯 Featured Projects
+<!-- ## 🎯 Featured Projects
 
 ### [ICT Authority Site Data Processor](https://github.com/NMsby/icta-site-data-processor.git)
 A Python-based data enrichment system developed during my industrial attachment at ICT Authority Kenya. Processes site information records and fills missing data through intelligent lookups and Google Maps geocoding. 
@@ -147,7 +147,7 @@ A comprehensive hardware store management system with inventory, POS, customer m
 ### [An Automated Login Script](https://github.com/NMsby/powerlearn-bot.git)
 This Python bot handles scheduled login/logout cycles, simulates user activity, provides error recovery, and includes monitoring capabilities using Playwright. 
 
-![Project Stars](https://img.shields.io/github/stars/NMsby/powerlearn-bot.git?style=social)
+![Project Stars](https://img.shields.io/github/stars/NMsby/powerlearn-bot.git?style=social) -->
 
 ## 📫 Let's Connect!
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmsby.dev@gmail.com)
