@@ -113,9 +113,9 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
     
-  <img src="https://github-readme-stats.vercel.app/api?username=NMsby&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: 45%; min-width: 300px; height: 250px; object-fit: cover;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NMsby&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: 45%; min-width: 300px; height: 200px; object-fit: cover;" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NMsby&theme=vue-dark&hide_border=true" style="width: 45%; min-width: 300px; height: 250px; object-fit: cover;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NMsby&theme=vue-dark&hide_border=true" style="width: 45%; min-width: 300px; height: 200px; object-fit: cover;" />
   
   
   </div>
