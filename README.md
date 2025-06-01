@@ -112,19 +112,20 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=NMsby&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" style="width: 45%; min-width: 300px; height: 250px; object-fit: cover;" />
-
-  <img src="https://streak-stats.demolab.com/?user=NMsby&theme=radical&hide_border=true" style="width: 45%; min-width: 300px; height: 250px; object-fit: cover;" />
-
+    
+  ![NMsby's Stats](https://github-readme-stats.vercel.app/api?username=NMsby&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  ![NMsby's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NMsby&theme=vue-dark&hide_border=true)
+  
   </div>
 </div>
 
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NMsby&theme=radical&no-bg=true&no-frame=true" />
+<div align="center"> 
+
+  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NMsby&theme=darkhub&no-bg=true&no-frame=true)
+
 </div>
 
 <!-- ## 🎯 Featured Projects
