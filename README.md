@@ -171,11 +171,11 @@ This Python bot handles scheduled login/logout cycles, simulates user activity, 
 ## 🎵 Now Playing
 [![Spotify](https://YOUR_SPOTIFY_NOWPLAYING_URL)](https://open.spotify.com/user/6h508c0c947nig9mt3emra696)
 
-## 📱 Latest Activity
+<!-- ## 📱 Latest Activity -->
 <!--START_SECTION:activity-->
-1. 🔨 Contributed to [Repository Name](repository-link)
+<!-- 1. 🔨 Contributed to [Repository Name](repository-link)
 2. ⭐ Starred [Repository Name](repository-link)
-3. 🗣 Commented on [Issue #123](issue-link)
+3. 🗣 Commented on [Issue #123](issue-link) -->
 <!--END_SECTION:activity-->
 
 <!-- This activity section will auto-update with a GitHub Action -->
@@ -187,7 +187,4 @@ This Python bot handles scheduled login/logout cycles, simulates user activity, 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NMsby/NMsby/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/NMsby/NMsby/output/github-snake.svg" />
 </picture>
-
-
-⭐️ Template inspired by [Nelson Masbayi](https://github.com/NMsby)
 
