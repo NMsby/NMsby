@@ -7,12 +7,12 @@
 ## 🚀 About Me
 I'm a passionate developer focused on Full stack development. Whether it's crafting clean code or solving complex problems, I love bringing ideas to life through technology.
 
-### 💡 What I Do
+<!-- ### 💡 What I Do
 - 🔭 Currently working on Data Science/AI
 - 🌱 Learning Python
 - 👯 Looking to collaborate on anything and everything!
 - 💬 Ask me about...
-
+-->
 ## 🛠️ Technical Skills
 
 <table>
