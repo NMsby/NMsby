@@ -152,7 +152,7 @@ This Python bot handles scheduled login/logout cycles, simulates user activity, 
 
 ![Project Stars](https://img.shields.io/github/stars/NMsby/powerlearn-bot.git?style=social) -->
 
-## 📫 Let's Connect!
+<!-- ## 📫 Let's Connect!
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmsby.dev@gmail.com)
@@ -166,7 +166,7 @@ This Python bot handles scheduled login/logout cycles, simulates user activity, 
   [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/nmsby)
   [![Portfolio](https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://nelsonmasbayi.vercel.app)
 
-</div>
+</div> -->
 
 ## 🎵 Now Playing
 [![Spotify](https://YOUR_SPOTIFY_NOWPLAYING_URL)](https://open.spotify.com/user/6h508c0c947nig9mt3emra696)
