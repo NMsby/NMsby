@@ -117,10 +117,9 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 
 <details close>
 <summary><b>Detailed GitHub metrics</b></summary>
-<br>
 
 <div align="center">
-<div style="display: flex; justify-content: center; gap: 10px; max-width: 900px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 10px; max-width: 900px; flex-wrap: wrap; margin-top: 10px;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=NMsby&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: 45%; min-width: 300px; height: 200px; object-fit: cover;" />
   
