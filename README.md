@@ -110,15 +110,36 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 ## 📊 GitHub Stats
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-    
-  <img src="https://github-readme-stats.vercel.app/api?username=NMsby&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: 45%; min-width: 300px; height: 200px; object-fit: cover;" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NMsby&theme=vue-dark&hide_border=true" style="width: 45%; min-width: 300px; height: 200px; object-fit: cover;" />
-  
-  
-  </div>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nmsby&theme=github_dark" style="width: 95%; max-width: 900px; min-width: 350px; margin-bottom: 10px;" />
+
 </div>
+
+<details close>
+<summary><b>Detailed GitHub metrics</b></summary>
+<br>
+
+<div align="center">
+<div style="display: flex; justify-content: center; gap: 10px; max-width: 900px; flex-wrap: wrap;">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=NMsby&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="flex: 1; max-width: 445px; min-width: 300px;" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NMsby&theme=vue-dark&hide_border=true" style="flex: 1; max-width: 445px; min-width: 300px;" />
+
+</div>
+</div>
+
+</details>
+
+<!--
+## ⏰ This Week's Development Time
+
+<div align="center">
+
+[![Nelson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nmsby&theme=vue-dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+-->
 
 ## 🏆 GitHub Trophies
 
