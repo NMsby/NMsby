@@ -4,15 +4,17 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=NMsby&color=brightgreen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nmsby/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success.svg?color=800080)](https://nelsonmasbayi.vercel.app/)
+
 ## 🚀 About Me
 I'm a passionate developer focused on Full stack development. Whether it's crafting clean code or solving complex problems, I love bringing ideas to life through technology.
 
-<!-- ### 💡 What I Do
-- 🔭 Currently working on Data Science/AI
-- 🌱 Learning Python
-- 👯 Looking to collaborate on anything and everything!
-- 💬 Ask me about...
--->
+## 🎯 What I'm Currently Focused On
+
+- 🔭 Building web applications with **React** and **Next.js**
+- 🌱 Exploring **blockchain development** and **Web3** technologies
+- 🤖 Learning **Machine Learning fundamentals** and **AI development** with **Python**
+- 📚 Learning **cloud architecture** with **AWS** and **Docker**
+  
 ## 🛠️ Technical Skills
 
 <table>
