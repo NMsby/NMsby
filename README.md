@@ -169,7 +169,12 @@ This Python bot handles scheduled login/logout cycles, simulates user activity, 
 </div> -->
 
 ## 🎵 Now Playing
-[![Spotify](https://YOUR_SPOTIFY_NOWPLAYING_URL)](https://open.spotify.com/user/6h508c0c947nig9mt3emra696)
+<a href="https://nmsby.pythonanywhere.com/link">
+  <img
+    src="https://nmsby.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark"
+    alt="Current Spotify Song"
+  />
+</a>
 
 <!-- ## 📱 Latest Activity -->
 <!--START_SECTION:activity-->
