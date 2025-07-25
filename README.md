@@ -120,12 +120,11 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
   </div>
 </div>
 
-
 ## 🏆 GitHub Trophies
 
 <div align="center"> 
 
-  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NMsby&theme=darkhub&no-bg=true&no-frame=true)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NMsby&theme=darkhub&no-bg=true&no-frame=true&row=1&column=9)
 
 </div>
 
