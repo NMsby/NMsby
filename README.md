@@ -17,6 +17,10 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
   
 ## 🛠️ Technical Skills
 
+<details open>
+<summary><b>🖱️ Click to view my complete tech stack</b></summary>
+<br>
+
 <table>
   <tr>
     <td><strong>Languages</strong></td>
@@ -100,6 +104,8 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
     </td>
   </tr>
 </table>
+
+</details>
 
 ## 📊 GitHub Stats
 
