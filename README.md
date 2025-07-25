@@ -123,28 +123,6 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 
 </div>
 
-<!-- ## 🎯 Featured Projects
-
-### [ICT Authority Site Data Processor](https://github.com/NMsby/icta-site-data-processor.git)
-A Python-based data enrichment system developed during my industrial attachment at ICT Authority Kenya. Processes site information records and fills missing data through intelligent lookups and Google Maps geocoding. 
-
-![Project Stars](https://img.shields.io/github/stars/NMsby/icta-site-data-processor?style=social)
-
-### [Cryptocurrency Switch bot](https://github.com/NMsby/crypto_switch_bot.git)
-An automated cryptocurrency trading bot that monitors price trends via CoinGecko API and executes trades based on configurable strategies.
-
-![Project Stars](https://img.shields.io/github/stars/NMsby/crypto_switch_bot?style=social)
-
-### [Hardware Store Management System](https://github.com/NMsby/pecma-hardware-system.git)
-A comprehensive hardware store management system with inventory, POS, customer management, and SMS notification capabilities 
-
-![Project Stars](https://img.shields.io/github/stars/NMsby/pecma-hardware-system.git?style=social)
-
-### [An Automated Login Script](https://github.com/NMsby/powerlearn-bot.git)
-This Python bot handles scheduled login/logout cycles, simulates user activity, provides error recovery, and includes monitoring capabilities using Playwright. 
-
-![Project Stars](https://img.shields.io/github/stars/NMsby/powerlearn-bot.git?style=social) -->
-
 <!-- ## 📫 Let's Connect!
 <div align="center">
   
