@@ -121,10 +121,10 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 
 <div align="center">
 <div style="display: flex; justify-content: center; gap: 10px; max-width: 900px; flex-wrap: wrap;">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=NMsby&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="flex: 1; max-width: 445px; min-width: 300px;" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NMsby&theme=vue-dark&hide_border=true" style="flex: 1; max-width: 445px; min-width: 300px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=NMsby&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: 45%; min-width: 300px; height: 200px; object-fit: cover;" />
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NMsby&theme=vue-dark&hide_border=true" style="width: 45%; min-width: 300px; height: 200px; object-fit: cover;" />
 
 </div>
 </div>
