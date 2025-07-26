@@ -17,7 +17,7 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
   
 ## 🛠️ Technical Skills
 
-<details open>
+<details close>
 <summary><b>🖱️ Click to view my complete tech stack</b></summary>
 <br>
 
