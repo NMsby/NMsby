@@ -148,19 +148,14 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 
 </div>
 
-## 🎵 Now Playing
-<a href="https://nmsby.pythonanywhere.com/link">
-  <img
-    src="https://nmsby.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark"
-    alt="Current Spotify Song"
-  />
-</a>
+## 🎧 Music & Contributions
 
-## 🐍 Contribution Snake
+<div align="center">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; ">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NMsby/NMsby/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NMsby/NMsby/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/NMsby/NMsby/output/github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/NMsby/NMsby/output/github-snake-dark.svg" style="width: 65%; object-fit: cover;" />
 
+<img src="https://nmsby.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark" style="width: 34%; height: 118px; object-fit: cover;" />
+
+</div>
+</div>
