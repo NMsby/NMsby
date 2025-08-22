@@ -10,10 +10,10 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 
 ## 🎯 What I'm Currently Focused On
 
-- 🔭 Building web applications with **React** and **Next.js**
-- 🌱 Exploring **blockchain development** and **Web3** technologies
-- 🤖 Learning **Machine Learning fundamentals** and **AI development** with **Python**
-- 📚 Learning **cloud architecture** with **AWS** and **Docker**
+- Building web applications with **React** and **Next.js**
+- Exploring **blockchain development** and **Web3** technologies
+- Learning **Machine Learning fundamentals** and **AI development** with **Python**
+- Learning **cloud architecture** with **AWS** and **Docker**
   
 ## 🛠️ Technical Skills
 
