@@ -155,7 +155,7 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 
 <img src="https://raw.githubusercontent.com/NMsby/NMsby/output/github-snake-dark.svg" style="width: 65%; object-fit: cover;" />
 
-<img src="https://nmsby.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark" style="width: 34%; height: 118px; object-fit: cover;" />
+<img src="https://spotify-readme-nmsby.vercel.app?spin=true&scan=true&eq_color=rainbow&theme=dark" style="width: 34%; height: 118px; object-fit: cover;" />
 
 </div>
 </div>
