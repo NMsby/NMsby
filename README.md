@@ -130,16 +130,6 @@ I'm a passionate developer focused on Full stack development. Whether it's craft
 
 </details>
 
-<!--
-## ⏰ This Week's Development Time
-
-<div align="center">
-
-[![Nelson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nmsby&theme=vue-dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
--->
-
 ## 🏆 GitHub Trophies
 
 <div align="center"> 
